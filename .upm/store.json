@@ -1,1 +1,1 @@
-{"version":2,"languages":{"nodejs-npm":{"specfileHash":"bbb0091ab3326c3f15c7425b5ce97bad","lockfileHash":"b140898619c66855a1611a95e8265ca5","guessedImports":["vite","@sveltejs/vite-plugin-svelte","svelte-preprocess"],"guessedImportsHash":"af6c7d8a683cc88c2256f3d1102a93bd"}}}
+{"version":2,"languages":{"nodejs-npm":{"specfileHash":"bbb0091ab3326c3f15c7425b5ce97bad","lockfileHash":"b140898619c66855a1611a95e8265ca5","guessedImports":["vite","@sveltejs/vite-plugin-svelte","svelte-preprocess","svelte"],"guessedImportsHash":"23c8f7f72472f794d172196102a8c260"}}}

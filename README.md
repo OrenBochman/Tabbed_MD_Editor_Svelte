@@ -46,3 +46,26 @@ If you have state that's important to retain within a component, consider creati
 import { writable } from 'svelte/store'
 export default writable(0)
 ```
+
+
+# TODO:
+1. Material Design
+   1. [x] use matedial design tabs
+   1. [x] integrate markdown 
+1. [x] commit to git
+1. State Persistence
+   1. [ ] persits tab state in a store
+   1. [ ] persits md state in a store
+1. File persistance
+   1. load md from a file (using select file widget)
+   1. save md to file (export)
+1. More features
+   1. [ ] add plugins for sidenotes etc
+   1. [ ] search & replace 
+   1. [ ] use vs editor component instead of edit box 
+1. Refactorings To Patterns
+   1. [ ] unit tests
+   1. [ ] refactor tabs to components (md_edit_box and md_preview)
+   1. [ ] fetch md from ... sanity
+   1. [ ] bind to function instead of #if :else /if block with a function
+   1. [ ] are (nested) <if> <else> component  possible !?

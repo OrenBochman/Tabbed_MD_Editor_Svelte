@@ -1,16 +1,11 @@
 <script lang="ts">
   import logo from './assets/svelte.png'
-  import Counter from './lib/Counter.svelte'
-  import Editor from './lib/Editor.svelte'
   import MaterialEditor from './lib/MaterialEditor.svelte'
 </script>
 
 <main>
   <h1>Hello MarkdDown It!</h1>
   <MaterialEditor/>
-  <!-- <Editor /> -->  
-  <!-- <Counter /> -->
-
 </main>
 
 <style>

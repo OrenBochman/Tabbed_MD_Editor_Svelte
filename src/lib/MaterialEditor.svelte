@@ -7,13 +7,7 @@
 	import { afterUpdate } from 'svelte';
 
   /*todo:
-  1. load sample  md from file
-  1. save md to file
-  1. refactor tabs to components (md_edit_box and md_preview)
-  1. persits tab state in a store
-  1. persits md state in a store
-  1. fetch md from ... sanity
-  1. find out how to replace #if :else /if block with a function
+
   
   */ 
 	let active = "edit";
